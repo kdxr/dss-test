@@ -1,0 +1,15 @@
+age,menopause,tumor-size,inv-nodes,node-caps,deg-malig,breast,breast-quad,irradiat,Class
+10-19,lt40,0-4,0-2,yes,1,left,left_up,yes,no-recurrence-events
+20-29,ge40,5-9,3-5,no,2,right,left_low,no,recurrence-events
+30-39,premeno,10-14,6-8,yes,3,right,right_up,no,?
+40-49,premeno,15-19,9-11,yes,3,right,right_low,no,?
+50-59,premeno,20-24,12-14,yes,3,right,central,no,?
+60-69,premeno,25-29,15-17,yes,3,right,left_up,no,?
+70-79,premeno,30-34,18-20,yes,3,right,left_up,no,?
+80-89,premeno,35-39,21-23,yes,3,right,left_up,no,?
+90-99,premeno,40-44,24-26,yes,3,right,left_up,no,?
+70-79,premeno,45-49,27-29,yes,3,right,left_up,no,?
+80-89,premeno,50-54,30-32,yes,3,right,left_up,no,?
+90-99,premeno,55-59,33-35,yes,3,right,left_up,no,?
+90-99,premeno,55-59,36-39,yes,3,right,left_up,no,?
+20-29,ge40,0-4,6-8,no,2,left,right_up,no,?
